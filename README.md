@@ -1,6 +1,7 @@
 # PHP-DesignPatterns
 
-Examples of Design Patterns implementations.
+Examples of Design Patterns implementations. 
+PHP 7.3
 
 ### how to
 * Checkout the project
